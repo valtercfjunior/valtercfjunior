@@ -7,10 +7,10 @@
 
 ##
 
-<div>  
+<div align="center" >  
 <a href="https://github.com/valtercfjunior">
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=valtercfjunior&show_icons=true&theme=nightowl"/>
-<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valtercfjunior&layout=compact&theme=nightowl"/>
+<img  height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=valtercfjunior&show_icons=true&theme=nightowl"/>
+<img  height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valtercfjunior&layout=compact&theme=nightowl"/>
 </div>
   <br>
   
