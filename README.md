@@ -1,7 +1,7 @@
 ## <h1 align="center">Hello World! That's my Profile</h2>
 
-- 🚀 Graduated in Industrial Engineering. I work with Process Management. However, I am looking for an opportunity to work as a developer
-- 🌱 I’m currently learning: Web dev
+- 🚀 Graduated in Industrial Engineering. I work with Process Management, also as Freelance Web and Mobile Development
+- 🌱 I’m currently learning: Mobile Dev
 
 
 
