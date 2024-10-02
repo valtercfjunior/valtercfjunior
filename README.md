@@ -60,7 +60,7 @@
 
   <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" alt="solidity">  
   <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original-wordmark.svg" alt="hardhat">  
-  <img align="center" height="50em" src="hhttps://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" alt="ansible">  
+  <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" alt="ansible">  
           
 </div>
   <br>
@@ -72,7 +72,7 @@
 <a href="https://www.linkedin.com/in/valtercfjunior/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://www.instagram.com/valterj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="discordapp.com/users/valterjunior#0149" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
-<a href="https://valtercfjunior.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-8A2BE2" alt="portfolio"></a>
+<a href="https://valtercfjunior.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge" alt="portfolio"></a>
     
 </div>
   
